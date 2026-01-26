@@ -1,27 +1,26 @@
 # Project 50: Coding Hardcore 🛠️
 
-<img width="2084" height="1084" alt="image (16)" src="https://github.com/user-attachments/assets/b4a6d2f8-dca4-4856-98f7-0b09ee3ebb8d" />
+<img width="2084" height="1084" alt="banner" src="https://github.com/user-attachments/assets/b4a6d2f8-dca4-4856-98f7-0b09ee3ebb8d" />
 
 ## 🎯 The Concept
-As a final-year Data Science student, I realized that AI tools like ChatGPT and GitHub Copilot were becoming a "crutch" rather than a "tool." I could solve complex problems, but I felt the intuitive connection between my brain and the keyboard was fading. 
+I'm a final-year Data Science student, and I've noticed a problem: I'm relying on AI way too much. Tools like ChatGPT are great, but I started feeling that my core coding skills were getting "rusty." 
 
-**Project 50** is a 50-day "digital detox" designed to re-master the fundamentals of programming. No AI, no shortcuts—just pure logic, official documentation, and raw discipline.
+**Project 50** is my personal 50-day challenge to fix this. It's a "digital detox" to rebuild my logic and muscle memory by solving tasks manually every single day.
 
 ## 🚫 The Rules
-1. **No AI Assistance:** No ChatGPT, Copilot, or Claude for generating code.
-2. **Pure Documentation:** Only official language documentation and Google/StackOverflow are allowed for research.
-3. **Consistency:** One day, one task, one manual commit.
-4. **Transparency:** Every solution is written from scratch.
+1. **Zero AI for Code:** No ChatGPT, Copilot, or Claude for writing logic.
+2. **Back to Docs:** I use only official documentation and Google/StackOverflow for research.
+3. **Manual Commits:** One day, one task, one manual commit. No copy-pasting.
+
+## 🧠 The Approach
+To be 100% transparent: I used AI to help me structure this roadmap and generate task descriptions. However, **every single line of code** in this repository is written by me from scratch, based on my own logic and documentation research.
 
 ## 📁 Repository Structure
-- `Phase_1_Basics/`: (Days 01-10) Algorithms, loops, and core logic.
-- `Phase_2_Files_Data/`: (Days 11-20) Data structures, File I/O, and JSON handling.
-- `Phase_3_OOP/`: (Days 21-30) Object-Oriented Programming and advanced classes.
-- `Phase_4_Engineering/`: (Days 31-40) Data Engineering basics (SQL, API, Pandas).
-- `Phase_5_Capstone/`: (Days 41-50) Mini-projects, FastAPI, and Deployment.
-
-## 📜 License
-This project is licensed under the **MIT License**. Feel free to use this roadmap for your own challenge.
+- `Phase_1_Basics/`: (Days 01-10) Loops, algorithms, and core logic.
+- `Phase_2_Files_Data/`: (Days 11-20) Data structures and File I/O.
+- `Phase_3_OOP/`: (Days 21-30) Object-Oriented Programming mastery.
+- `Phase_4_Engineering/`: (Days 31-40) Data Engineering (SQL, APIs, Pandas).
+- `Phase_5_Capstone/`: (Days 41-50) Deployment and mini-projects.
 
 ---
-*Created by a developer who wants to remember how to think.*
+*Back to basics. Relearning how to think.*
