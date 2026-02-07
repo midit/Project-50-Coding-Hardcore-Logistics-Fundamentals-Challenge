@@ -17,6 +17,6 @@ def password_generator(length):
     return password
 
 if __name__ == "__main__":
-    print(password_generator(10))
-    print(password_generator(5))
-    print(password_generator(16))
+    print(password_generator(8))
+    print(password_generator(8))
+    print(password_generator(8))
