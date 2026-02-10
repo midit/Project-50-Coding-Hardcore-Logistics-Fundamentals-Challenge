@@ -28,4 +28,3 @@ def csv_extractor(file_path, *columns):
 if __name__ == "__main__":
     file_path = "Phase_2_Files_Data/other/Day_15/users.csv"
     csv_extractor(file_path, "name", "City")
-    
