@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Енеїда",
+        "author": "Іван Котляревський",
+        "is_available": true
+    },
+    {
+        "title": "Конотопська відьма",
+        "author": "Григорій Квітка-Основ'яненко",
+        "is_available": false
+    },
+    {
+        "title": "Кобзар",
+        "author": "Тарас Шевченко",
+        "is_available": true
+    },
+    {
+        "title": "Маруся Чурай",
+        "author": "Ліна Костенко",
+        "is_available": false
+    }
+]
