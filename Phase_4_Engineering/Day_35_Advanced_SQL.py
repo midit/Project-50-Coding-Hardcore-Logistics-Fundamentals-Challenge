@@ -38,13 +38,7 @@ def initialize_db(json_path, database_path):
         
         cursor.execute("""
             CREATE TABLE BOOKS (
-                id INTEGER PRIMARY KEY AUTOINCREMENT,
-                title TEXT NOT NULL,
-                price REAL,
-                stock TEXT,
-                author_id INTEGER,
-                FOREIGN KEY (author_id) REFERENCES AUTHORS(id)
-            )
+                id INTEGER PRIMARY KEY AUTOINCREMENT,=
         """)
 
         cursor.execute("INSERT OR IGNORE INTO AUTHORS (name) VALUES (?)", ("Unknown Artist",))
