@@ -1,5 +1,4 @@
 {
     "github.copilot.chat.agent.currentEditorContext.enabled": false,
-    "python-envs.defaultEnvManager": "ms-python.python:system",
-    "python-envs.pythonProjects": []
+    "python-envs.defaultEnvManager": "ms-python.python:venv"
 }
