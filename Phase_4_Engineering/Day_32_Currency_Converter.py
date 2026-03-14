@@ -34,7 +34,10 @@ def currancy_converter(data, codeA, codeB):
                 msg = f"Крос-курс: {cross}"
             
             logging.info(f"[$$] Валюта {codeA}/{codeB}: {msg}")
-            print(f"[+] {codeA}/{codeB} записано в лог")
+            # print(f"[+] {codeA}/{codeB} записано в лог")
+            return msg
+    
+    return "Валютну пару не знайдено"
 
 if __name__ == "__main__":
     # хі-хі-хі
