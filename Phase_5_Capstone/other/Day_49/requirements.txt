@@ -21,6 +21,7 @@ fonttools==4.61.1
 frozenlist==1.8.0
 greenlet==3.3.2
 h11==0.16.0
+httpx
 idna==3.11
 kiwisolver==1.4.9
 magic-filter==1.0.12
